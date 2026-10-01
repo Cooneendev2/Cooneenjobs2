@@ -1,0 +1,8 @@
+/.assetsignore
+/wrangler.jsonc
+/worker.js
+/functions
+/tests
+/tools
+/docs
+/README.md
